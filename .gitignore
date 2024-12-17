@@ -1,0 +1,10 @@
+
+# Ignore system files
+AppData/
+*.bin
+*.log
+
+# Ignore common IDE/project files
+node_modules/
+dist/
+build/
